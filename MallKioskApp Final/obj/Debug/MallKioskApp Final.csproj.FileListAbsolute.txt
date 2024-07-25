@@ -1,0 +1,170 @@
+C:\Users\701933\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\MallKioskApp Final\MallKioskApp Final\bin\Debug\MallKioskApp Final.exe.config
+C:\Users\701933\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\MallKioskApp Final\MallKioskApp Final\bin\Debug\MallKioskApp Final.exe
+C:\Users\701933\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\MallKioskApp Final\MallKioskApp Final\bin\Debug\MallKioskApp Final.pdb
+C:\Users\701933\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.csprojAssemblyReference.cache
+C:\Users\701933\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.Form1.resources
+C:\Users\701933\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.Properties.Resources.resources
+C:\Users\701933\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.csproj.GenerateResource.cache
+C:\Users\701933\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.csproj.CoreCompileInputs.cache
+C:\Users\701933\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.exe
+C:\Users\701933\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.pdb
+C:\Users\701933\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.store.resources
+D:\College\Assignments\Unit 10_A2\MallKioskApp Final\MallKioskApp Final\bin\Debug\MallKioskApp Final.exe.config
+D:\College\Assignments\Unit 10_A2\MallKioskApp Final\MallKioskApp Final\bin\Debug\MallKioskApp Final.exe
+D:\College\Assignments\Unit 10_A2\MallKioskApp Final\MallKioskApp Final\bin\Debug\MallKioskApp Final.pdb
+D:\College\Assignments\Unit 10_A2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.csproj.AssemblyReference.cache
+D:\College\Assignments\Unit 10_A2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.Properties.Resources.resources
+D:\College\Assignments\Unit 10_A2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.store.resources
+D:\College\Assignments\Unit 10_A2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.csproj.GenerateResource.cache
+D:\College\Assignments\Unit 10_A2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.csproj.CoreCompileInputs.cache
+D:\College\Assignments\Unit 10_A2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.exe
+D:\College\Assignments\Unit 10_A2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.pdb
+D:\College\Assignments\Unit 10_A2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.dining.resources
+D:\College\Assignments\Unit 10_A2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.entertainment.resources
+D:\College\Assignments\Unit 10_A2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.map.resources
+D:\College\Assignments\Unit 10_A2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.settings.resources
+D:\College\Assignments\Unit 10_A2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.burgerKing.resources
+D:\College\Assignments\Unit 10_A2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.Form1.resources
+D:\College\Assignments\Unit 10_A2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.fridays.resources
+D:\College\Assignments\Unit 10_A2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.greggs.resources
+D:\College\Assignments\Unit 10_A2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.kfc.resources
+D:\College\Assignments\Unit 10_A2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.kfcc.resources
+C:\Users\701933\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.burgerKing.resources
+C:\Users\701933\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.dining.resources
+C:\Users\701933\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.entertainment.resources
+C:\Users\701933\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.fridays.resources
+C:\Users\701933\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.greggs.resources
+C:\Users\701933\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.kfc.resources
+C:\Users\701933\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.kfcc.resources
+C:\Users\701933\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.map.resources
+C:\Users\701933\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.settings.resources
+C:\Users\701933\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.mapF.resources
+C:\Users\701933\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.lowerMap.resources
+C:\Users\701933\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.stores.resources
+C:\Users\701933\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.Resources.three.resources
+C:\Users\701933\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.apple.resources
+D:\For OneDrive\2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.csproj.AssemblyReference.cache
+D:\For OneDrive\2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.apple.resources
+D:\For OneDrive\2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.burgerKing.resources
+D:\For OneDrive\2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.dining.resources
+D:\For OneDrive\2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.entertainment.resources
+D:\For OneDrive\2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.Form1.resources
+D:\For OneDrive\2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.fridays.resources
+D:\For OneDrive\2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.greggs.resources
+D:\For OneDrive\2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.kfc.resources
+D:\For OneDrive\2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.kfcc.resources
+D:\For OneDrive\2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.lowerMap.resources
+D:\For OneDrive\2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.map.resources
+D:\For OneDrive\2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.mapF.resources
+D:\For OneDrive\2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.Properties.Resources.resources
+D:\For OneDrive\2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.Resources.three.resources
+D:\For OneDrive\2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.settings.resources
+D:\For OneDrive\2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.store.resources
+D:\For OneDrive\2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.stores.resources
+D:\For OneDrive\2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.csproj.GenerateResource.cache
+D:\For OneDrive\2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.csproj.CoreCompileInputs.cache
+D:\For OneDrive\2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.exe
+D:\For OneDrive\2\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.pdb
+D:\For OneDrive\2\MallKioskApp Final\MallKioskApp Final\bin\Debug\MallKioskApp Final.exe.config
+D:\For OneDrive\2\MallKioskApp Final\MallKioskApp Final\bin\Debug\MallKioskApp Final.exe
+D:\For OneDrive\2\MallKioskApp Final\MallKioskApp Final\bin\Debug\MallKioskApp Final.pdb
+C:\Users\Colegate\OneDrive - City of Bristol College\Te, Cole (701933) (Ben)\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\FINAL CORRECT NON-CORRUPT\MallKioskApp Final\MallKioskApp Final\bin\Debug\MallKioskApp Final.exe.config
+C:\Users\Colegate\OneDrive - City of Bristol College\Te, Cole (701933) (Ben)\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\FINAL CORRECT NON-CORRUPT\MallKioskApp Final\MallKioskApp Final\bin\Debug\MallKioskApp Final.exe
+C:\Users\Colegate\OneDrive - City of Bristol College\Te, Cole (701933) (Ben)\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\FINAL CORRECT NON-CORRUPT\MallKioskApp Final\MallKioskApp Final\bin\Debug\MallKioskApp Final.pdb
+C:\Users\Colegate\OneDrive - City of Bristol College\Te, Cole (701933) (Ben)\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\FINAL CORRECT NON-CORRUPT\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.csproj.AssemblyReference.cache
+C:\Users\Colegate\OneDrive - City of Bristol College\Te, Cole (701933) (Ben)\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\FINAL CORRECT NON-CORRUPT\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.apple.resources
+C:\Users\Colegate\OneDrive - City of Bristol College\Te, Cole (701933) (Ben)\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\FINAL CORRECT NON-CORRUPT\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.burgerKing.resources
+C:\Users\Colegate\OneDrive - City of Bristol College\Te, Cole (701933) (Ben)\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\FINAL CORRECT NON-CORRUPT\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.dining.resources
+C:\Users\Colegate\OneDrive - City of Bristol College\Te, Cole (701933) (Ben)\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\FINAL CORRECT NON-CORRUPT\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.entertainment.resources
+C:\Users\Colegate\OneDrive - City of Bristol College\Te, Cole (701933) (Ben)\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\FINAL CORRECT NON-CORRUPT\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.Form1.resources
+C:\Users\Colegate\OneDrive - City of Bristol College\Te, Cole (701933) (Ben)\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\FINAL CORRECT NON-CORRUPT\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.fridays.resources
+C:\Users\Colegate\OneDrive - City of Bristol College\Te, Cole (701933) (Ben)\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\FINAL CORRECT NON-CORRUPT\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.greggs.resources
+C:\Users\Colegate\OneDrive - City of Bristol College\Te, Cole (701933) (Ben)\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\FINAL CORRECT NON-CORRUPT\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.kfc.resources
+C:\Users\Colegate\OneDrive - City of Bristol College\Te, Cole (701933) (Ben)\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\FINAL CORRECT NON-CORRUPT\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.kfcc.resources
+C:\Users\Colegate\OneDrive - City of Bristol College\Te, Cole (701933) (Ben)\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\FINAL CORRECT NON-CORRUPT\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.lowerMap.resources
+C:\Users\Colegate\OneDrive - City of Bristol College\Te, Cole (701933) (Ben)\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\FINAL CORRECT NON-CORRUPT\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.map.resources
+C:\Users\Colegate\OneDrive - City of Bristol College\Te, Cole (701933) (Ben)\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\FINAL CORRECT NON-CORRUPT\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.mapF.resources
+C:\Users\Colegate\OneDrive - City of Bristol College\Te, Cole (701933) (Ben)\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\FINAL CORRECT NON-CORRUPT\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.Properties.Resources.resources
+C:\Users\Colegate\OneDrive - City of Bristol College\Te, Cole (701933) (Ben)\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\FINAL CORRECT NON-CORRUPT\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.Resources.three.resources
+C:\Users\Colegate\OneDrive - City of Bristol College\Te, Cole (701933) (Ben)\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\FINAL CORRECT NON-CORRUPT\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.settings.resources
+C:\Users\Colegate\OneDrive - City of Bristol College\Te, Cole (701933) (Ben)\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\FINAL CORRECT NON-CORRUPT\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.store.resources
+C:\Users\Colegate\OneDrive - City of Bristol College\Te, Cole (701933) (Ben)\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\FINAL CORRECT NON-CORRUPT\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.stores.resources
+C:\Users\Colegate\OneDrive - City of Bristol College\Te, Cole (701933) (Ben)\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\FINAL CORRECT NON-CORRUPT\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.csproj.GenerateResource.cache
+C:\Users\Colegate\OneDrive - City of Bristol College\Te, Cole (701933) (Ben)\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\FINAL CORRECT NON-CORRUPT\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.csproj.CoreCompileInputs.cache
+C:\Users\Colegate\OneDrive - City of Bristol College\Te, Cole (701933) (Ben)\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\FINAL CORRECT NON-CORRUPT\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.exe
+C:\Users\Colegate\OneDrive - City of Bristol College\Te, Cole (701933) (Ben)\OneDrive - City of Bristol College\Rob\Assignments\2023 - 2024\Unit 10 - HCI\A2\Mall Kiosk\FINAL CORRECT NON-CORRUPT\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.pdb
+F:\Visual Studio 2017\final kiosk\OneDrive_2024-02-09 (1)\MallKioskApp Final\MallKioskApp Final\bin\Debug\MallKioskApp Final.exe.config
+F:\Visual Studio 2017\final kiosk\OneDrive_2024-02-09 (1)\MallKioskApp Final\MallKioskApp Final\bin\Debug\MallKioskApp Final.exe
+F:\Visual Studio 2017\final kiosk\OneDrive_2024-02-09 (1)\MallKioskApp Final\MallKioskApp Final\bin\Debug\MallKioskApp Final.pdb
+F:\Visual Studio 2017\final kiosk\OneDrive_2024-02-09 (1)\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.csprojAssemblyReference.cache
+F:\Visual Studio 2017\final kiosk\OneDrive_2024-02-09 (1)\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.apple.resources
+F:\Visual Studio 2017\final kiosk\OneDrive_2024-02-09 (1)\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.burgerKing.resources
+F:\Visual Studio 2017\final kiosk\OneDrive_2024-02-09 (1)\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.dining.resources
+F:\Visual Studio 2017\final kiosk\OneDrive_2024-02-09 (1)\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.entertainment.resources
+F:\Visual Studio 2017\final kiosk\OneDrive_2024-02-09 (1)\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.Form1.resources
+F:\Visual Studio 2017\final kiosk\OneDrive_2024-02-09 (1)\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.fridays.resources
+F:\Visual Studio 2017\final kiosk\OneDrive_2024-02-09 (1)\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.greggs.resources
+F:\Visual Studio 2017\final kiosk\OneDrive_2024-02-09 (1)\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.kfc.resources
+F:\Visual Studio 2017\final kiosk\OneDrive_2024-02-09 (1)\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.kfcc.resources
+F:\Visual Studio 2017\final kiosk\OneDrive_2024-02-09 (1)\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.lowerMap.resources
+F:\Visual Studio 2017\final kiosk\OneDrive_2024-02-09 (1)\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.map.resources
+F:\Visual Studio 2017\final kiosk\OneDrive_2024-02-09 (1)\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.mapF.resources
+F:\Visual Studio 2017\final kiosk\OneDrive_2024-02-09 (1)\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.Properties.Resources.resources
+F:\Visual Studio 2017\final kiosk\OneDrive_2024-02-09 (1)\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.Resources.three.resources
+F:\Visual Studio 2017\final kiosk\OneDrive_2024-02-09 (1)\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.settings.resources
+F:\Visual Studio 2017\final kiosk\OneDrive_2024-02-09 (1)\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.store.resources
+F:\Visual Studio 2017\final kiosk\OneDrive_2024-02-09 (1)\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.stores.resources
+F:\Visual Studio 2017\final kiosk\OneDrive_2024-02-09 (1)\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.csproj.GenerateResource.cache
+F:\Visual Studio 2017\final kiosk\OneDrive_2024-02-09 (1)\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.csproj.CoreCompileInputs.cache
+F:\Visual Studio 2017\final kiosk\OneDrive_2024-02-09 (1)\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.exe
+F:\Visual Studio 2017\final kiosk\OneDrive_2024-02-09 (1)\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.pdb
+F:\Visual Studio 2022\MallKioskApp Final\MallKioskApp Final\bin\Debug\MallKioskApp Final.exe.config
+F:\Visual Studio 2022\MallKioskApp Final\MallKioskApp Final\bin\Debug\MallKioskApp Final.exe
+F:\Visual Studio 2022\MallKioskApp Final\MallKioskApp Final\bin\Debug\MallKioskApp Final.pdb
+F:\Visual Studio 2022\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.csprojAssemblyReference.cache
+F:\Visual Studio 2022\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.apple.resources
+F:\Visual Studio 2022\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.burgerKing.resources
+F:\Visual Studio 2022\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.dining.resources
+F:\Visual Studio 2022\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.entertainment.resources
+F:\Visual Studio 2022\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.Form1.resources
+F:\Visual Studio 2022\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.fridays.resources
+F:\Visual Studio 2022\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.greggs.resources
+F:\Visual Studio 2022\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.kfc.resources
+F:\Visual Studio 2022\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.kfcc.resources
+F:\Visual Studio 2022\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.lowerMap.resources
+F:\Visual Studio 2022\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.map.resources
+F:\Visual Studio 2022\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.mapF.resources
+F:\Visual Studio 2022\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.Properties.Resources.resources
+F:\Visual Studio 2022\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.Resources.three.resources
+F:\Visual Studio 2022\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.settings.resources
+F:\Visual Studio 2022\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.store.resources
+F:\Visual Studio 2022\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.stores.resources
+F:\Visual Studio 2022\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.csproj.GenerateResource.cache
+F:\Visual Studio 2022\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.csproj.CoreCompileInputs.cache
+F:\Visual Studio 2022\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.exe
+F:\Visual Studio 2022\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.pdb
+D:\College\Assignments\MallKioskApp Final\MallKioskApp Final\bin\Debug\MallKioskApp Final.exe.config
+D:\College\Assignments\MallKioskApp Final\MallKioskApp Final\bin\Debug\MallKioskApp Final.exe
+D:\College\Assignments\MallKioskApp Final\MallKioskApp Final\bin\Debug\MallKioskApp Final.pdb
+D:\College\Assignments\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.csproj.AssemblyReference.cache
+D:\College\Assignments\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.apple.resources
+D:\College\Assignments\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.burgerKing.resources
+D:\College\Assignments\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.dining.resources
+D:\College\Assignments\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.entertainment.resources
+D:\College\Assignments\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.Form1.resources
+D:\College\Assignments\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.fridays.resources
+D:\College\Assignments\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.greggs.resources
+D:\College\Assignments\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.kfc.resources
+D:\College\Assignments\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.kfcc.resources
+D:\College\Assignments\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.lowerMap.resources
+D:\College\Assignments\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.map.resources
+D:\College\Assignments\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.mapF.resources
+D:\College\Assignments\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.Properties.Resources.resources
+D:\College\Assignments\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.Resources.three.resources
+D:\College\Assignments\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.settings.resources
+D:\College\Assignments\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.store.resources
+D:\College\Assignments\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp_Final.stores.resources
+D:\College\Assignments\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.csproj.GenerateResource.cache
+D:\College\Assignments\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.csproj.CoreCompileInputs.cache
+D:\College\Assignments\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.exe
+D:\College\Assignments\MallKioskApp Final\MallKioskApp Final\obj\Debug\MallKioskApp Final.pdb
